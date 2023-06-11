@@ -32,7 +32,7 @@ Mainly developing frontend applications such as a site to read manga, a simple b
 
 <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yueuwu" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yueuwu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yueuwu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="450px"/>
 </div>
 
 ### Codewars
