@@ -30,10 +30,20 @@ Mainly developing frontend applications such as a site to read manga, a simple b
 
 ### My GitHub Stats
 
-<div>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yueuwu" alt="Gift's LangStat" />
+    </td>
+    <td>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yueuwu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"/>
+    </td>
+  </tr>
+</table>
+<!-- <div>
    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Yueuwu" alt="Gift's LangStat" />
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yueuwu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="400px"/>
-</div>
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yueuwu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"/>
+</div> -->
 
 ### Codewars
 ![codewars](https://www.codewars.com/users/yueuwu/badges/large)
