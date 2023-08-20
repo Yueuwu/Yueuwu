@@ -7,7 +7,7 @@ I am Frontend Developer from Novosibirsk
 Mainly developing frontend applications such as a site to read manga, a simple browser game, an online store (on YouTube course), but also had dealings with Python to develop a desktop application and performed a bunch of lab on artificial intelligence.
 
 * 🌍  I'm based in Novosibirsk (Russia)
-* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-Vlad-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/hoyaparanoya) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vladdenega1@gmail.com)
+* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-Vlad-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vladislav_denega) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vladdenega1@gmail.com)
 
 ### Skills
 
